@@ -17,6 +17,7 @@ public class JavaApplication2 {
         // TODO code application logic here
          System.out.println("Hello Git from NetBeans!");
          System.out.println("i have added this line");
+         System.out.println("I am Ian");
     }
     
 }
