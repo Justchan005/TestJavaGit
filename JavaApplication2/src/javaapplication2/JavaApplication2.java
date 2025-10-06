@@ -18,6 +18,7 @@ public class JavaApplication2 {
          System.out.println("Hello Git from NetBeans!");
          System.out.println("i have added this line");
          System.out.println("I am Ian");
+         System.out.println("golden");
     }
     
 }
